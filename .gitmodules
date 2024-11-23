@@ -1,0 +1,6 @@
+[submodule "urlzinha-generate-url-rocketseat"]
+	path = urlzinha-generate-url-rocketseat
+	url = https://github.com/Vogon38/urlzinha-generate-url-rocketseat
+[submodule "urlzinha-redirect-url-rocketseat"]
+	path = urlzinha-redirect-url-rocketseat
+	url = https://github.com/Vogon38/urlzinha-redirect-url-rocketseat
